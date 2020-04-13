@@ -1,7 +1,7 @@
 #### Python
 This directory includes a bunch of folders. Each folder is a different challenge and it contains a Jupyter Notebook file (`.ipynb`). Open the notebook file in browser. Then, follow the step-by-step instructions to solve the challenge in the interactive coding environment. 
 
-Solve the challenges following the order suggested below.
+Solve the challenges following the order suggested below. Good luck!!!
 
 **Suggested Order Based on Difficulty**  
 
